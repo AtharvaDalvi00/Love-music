@@ -6,12 +6,12 @@ const songList = document.getElementById("songList");
 const songs = [
     {
       name: "Trusha",
-      file: "songs/Song1.mp3",
+      file: "Song1.mp3",
       cover: "image/1.jpg"
     },
     {
       name: "Line without hook",
-      file: "songs/Song2.mp3",
+      file: "Song2.mp3",
       cover: "image/2.jpg"
 
     }
